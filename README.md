@@ -8,3 +8,5 @@
 npm install
 export DB=<your sqlite database path> && npm start
 ```
+
+The generated graphql logic from https://github.com/bradleyboy/tuql
